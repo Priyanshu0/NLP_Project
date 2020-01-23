@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul  4 15:36:10 2019
-
-@author: aditya
+@author: Priyanshu
 """
 
 dff=df.groupby('1')

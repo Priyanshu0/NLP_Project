@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 21 12:08:30 2019
-
-@author: aditya
+@author: Priyanshu
 """
 
 import warnings
